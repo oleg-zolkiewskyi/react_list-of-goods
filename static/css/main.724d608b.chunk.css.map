@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,cACE,wBACF,CAEA,gBACE,wBACF,CAEA,cACE,oBACF","file":"main.724d608b.chunk.css","sourcesContent":[".button-start {\r\n  background-color: blueviolet;\r\n}\r\n\r\n.button-reverse {\r\n  background-color: yellowgreen;\r\n}\r\n\r\n.button-reset {\r\n  background-color: red;\r\n}\r\n"]}
